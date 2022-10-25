@@ -20,9 +20,8 @@
     margin-bottom: 1.25rem;
 }
 
-.contacto__boton {
+.contacto__boton{
     color: var(--boton-rojo);
     border-color: var(--boton-rojo);
     margin-top: 1.25rem;
-
 }
